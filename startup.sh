@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# To run script: 
+# $ chmod u+x startup.sh
+# ./startup.sh <env name>
+
 # Check if environment name is provided
 if [ $# -eq 0 ]
   then
