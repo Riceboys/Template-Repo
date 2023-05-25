@@ -21,6 +21,7 @@ $ docker images
 
 # Docker Compose Commands
 [See tutorial on docker compose](https://youtu.be/QeQ2MH5f_BE)
+
 Build and run all image:
 ```
 $ docker-compose up --build
