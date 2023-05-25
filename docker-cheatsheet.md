@@ -22,7 +22,7 @@ $ docker images
 # Docker Compose Commands
 [See tutorial on docker compose](https://youtu.be/QeQ2MH5f_BE)
 
-Build and run all image:
+Build and run all images:
 ```
 $ docker-compose up --build
 ```
@@ -32,7 +32,7 @@ Build specific container
 $ docker-compose up --build <target name>
 ```
 
-Remove container:
+Shut down and remove containers:
 ```
 $ docker-compose down
 ```
