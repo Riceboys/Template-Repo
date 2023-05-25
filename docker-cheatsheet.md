@@ -39,5 +39,5 @@ $ docker-compose down
 
 Display logs when building specific images
 ```
-$ docker-compose build --no-cache --progress=plain xrca-prod
+$ docker-compose build --no-cache --progress=plain <target name>
 ```
