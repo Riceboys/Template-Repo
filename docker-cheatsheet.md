@@ -29,7 +29,7 @@ Here, we are pushing to the [ttl.sh registry](https://ttl.sh). ttl.sh is an ephe
 $ docker push ttl.sh/${IMAGE_NAME}:1h
 ```
 
-Pushing docker images to Docker Hub:
+Pushing docker images to production to Docker Hub:
 ```
 $ docker push username/image_name:tag
 ```
