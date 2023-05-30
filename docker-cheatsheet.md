@@ -33,7 +33,6 @@ Pushing docker images to Docker Hub:
 ```
 $ docker push username/image_name:tag
 ```
-(e.g., docker push mdo6180/anacostia-executor:latest
 
 # Docker Compose Commands
 [See tutorial on docker compose](https://youtu.be/QeQ2MH5f_BE)
